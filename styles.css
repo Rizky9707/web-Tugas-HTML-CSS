@@ -16,7 +16,7 @@ body{
 
 .navbar {
 height: 60px;
-background-color: rgb(155, 97, 32);
+background-color: rgb(37, 97, 175);
 color: white;
 position: relative;
 }
@@ -62,7 +62,7 @@ main {
   position: absolute;
   top: 40px;
   left: 40px;
-  background-color: rgb(155, 97, 32);
+  background-color: rgb(37, 97, 175);
   padding: 20px;
 }
 
@@ -103,7 +103,7 @@ main {
   width: 100%;
   border: none;
   outline: none;
-  background-color: rgb(47, 92, 129);
+  background-color: rgba(131, 125, 38, 0.842);
   color: white;
   font-size: 17px;
   text-transform: uppercase;
