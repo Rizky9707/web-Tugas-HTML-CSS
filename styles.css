@@ -158,9 +158,9 @@ section p{
 
 .suc {
   position: absolute;
-  color: rgb(219, 168, 150);
+  color: blue;
   top: 50%;
   left: 37%;
-  box-shadow: darkblue;
+  bottom: 50%;
   font-size: 70px;
 }
